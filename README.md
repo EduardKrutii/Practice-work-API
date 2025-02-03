@@ -12,7 +12,7 @@ For start up file of **api.py** you need to install these libraries by CMD:
 + pip install pydantic
 + pip install python-multipart
 
-After that you need to open CMD by Administartor and write -  **python "Path of file api.py"**
+After that you need to open CMD by Administrator and write -  **python "Path of file api.py"**
 
 For example - python "C:\Users\edikk\source\python\api\api.py"
 
